@@ -1,0 +1,33 @@
+.product {
+  width: 35%;
+  height: 80vh;
+  background-color: rgba(24, 27, 27, 0.733);
+  padding: 2%;
+  box-sizing: border-box;
+  margin: 0 auto;
+  box-shadow: 2px 2px 2px white;
+  border-radius: 2%;
+}
+.productName,
+.price,
+.category {
+  background-color: rgba(85, 97, 97, 0.5);
+  color: white;
+  font-size: 1rem;
+  opacity: 0.5;
+  width: 90%;
+  padding: 15px;
+  margin-bottom: 25px;
+  border: none;
+  border-radius: 4%;
+  outline: none;
+}
+button {
+  margin-top: 25px;
+  padding: 10px 30px;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 10%;
+  background-color: white;
+  outline: none;
+}
