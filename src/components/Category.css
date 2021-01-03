@@ -1,0 +1,192 @@
+.Home-Select-Category-Level {
+  width: 338px;
+  height: 28px;
+  margin: 73px 176px 100px 100px;
+  opacity: 0.8;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  /* text-align: left; */
+  color: #818181;
+}
+.Home-Select-Category-Level ul {
+  list-style-type: none;
+  display: flex;
+}
+.Select-Level {
+  width: 136px;
+  height: 28px;
+  margin: 0 auto;
+  font-family: TTNorms;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1f4eb2;
+}
+.category {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Rectangle-81 {
+  width: 264px;
+  height: 308px;
+  margin: 77.5px 36px 32px 8px;
+  padding: 25px 23px 27px 21px;
+  border-radius: 10px;
+  border: solid 1px rgba(31, 78, 178, 0.27);
+  background-color: #ffffff;
+  color: #818181;
+}
+
+.Executive-Chefs {
+  width: 182px;
+  height: 28px;
+  margin: 0 38px 9px 0;
+  font-family: TTNorms;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1f4eb2;
+}
+
+.Hotel-Name-will-Come-Here {
+  width: 198px;
+  height: 19px;
+  margin: 9px 22px 17px 0;
+  font-family: TTNorms;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #818181;
+}
+.Rectangle-85 {
+  width: 146px;
+  height: 1px;
+  margin: 17px 74px 19px 0;
+  background-color: #ffffff;
+}
+.Bengaluru {
+  width: 75px;
+  height: 19px;
+  margin: 19px 114px 19px 14.1px;
+  font-family: TTNorms;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #818181;
+}
+.Rs-20000-Month {
+  width: 141px;
+  height: 19px;
+  margin: 19px 48px 23px 14.1px;
+  font-family: TTNorms;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #818181;
+}
+.More-Info {
+  width: 61px;
+  height: 16px;
+  margin: 23px 41px 28px 0;
+  font-family: TTNorms;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  text-align: left;
+  color: #818181;
+}
+.Posted-2-Days-Ago {
+  width: 99px;
+  height: 15px;
+  margin: 25px 19px 27px 41px;
+  font-family: TTNorms;
+  font-size: 12px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #818181;
+}
+.Rectangle-86 {
+  width: 260px;
+  height: 39px;
+  margin: 37px 0 0;
+  padding: 10px 71px;
+  border-radius: 5px;
+  background-color: rgba(31, 78, 178, 0.07);
+}
+.Apply-Now {
+  width: 78px;
+  height: 19px;
+  font-family: TTNorms;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1f4eb2;
+}
+
+.location,
+.money {
+  display: flex;
+}
+.location img {
+  width: 1rem;
+}
+.money img {
+  width: 1.5rem;
+}
+
+.Rectangle-81:hover {
+  background-color: #1f4eb2;
+}
+
+.Rectangle-81:hover .Executive-Chefs,
+.Rectangle-81:hover .Hotel-Name-will-Come-Here,
+.Rectangle-81:hover .Bengaluru,
+.Rectangle-81:hover .Rs-20000-Month,
+.Rectangle-81:hover .More-Info,
+.Rectangle-81:hover .Posted-2-Days-Ago,
+.Rectangle-81:hover .Rectangle-86 {
+  color: #ffffff;
+}
+.Rectangle-81:hover .Rectangle-86 {
+  background-color: #ffffff;
+}
+.Rectangle-81:hover .Apply-Now {
+  color: #1f4eb2;
+}
